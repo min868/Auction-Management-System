@@ -1,0 +1,9 @@
+[
+    {
+        "fullname": "superuser",
+        "username": "root",
+        "password": "admin",
+        "email": "mail",
+        "money": 9999999999.9
+    }
+]
